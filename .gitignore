@@ -1,0 +1,8 @@
+/node_modules
+
+# production
+/dist
+/build
+/esm
+/lib
+/.docz
